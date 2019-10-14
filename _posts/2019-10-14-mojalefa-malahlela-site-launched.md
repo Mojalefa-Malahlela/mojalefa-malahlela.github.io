@@ -1,7 +1,7 @@
 ---
-layout: post
-title: "Mojalefa Malahlela, Hungry Mind ,Launches Site"
-date: 2019-10-14
+layout:post
+title:"Mojalefa Malahlela, Hungry Mind ,Launches Site"
+date:2019-10-14
 ---
 
 Well.
